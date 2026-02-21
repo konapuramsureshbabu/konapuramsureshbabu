@@ -57,16 +57,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=konapuramsureshbabu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=konapuramsureshbabu&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 📧 Email: yourmail@example.com
-- 🧑‍💻 Portfolio: https://yourportfolio.com
+- 💼 LinkedIn: https://www.linkedin.com/in/k-suresh-babu/
+- 📧 Email: konapuramsureshbabu@gmail.com
+- 🧑‍💻 Portfolio: https://github.com/konapuramsureshbabu/
 
 ---
 
@@ -77,4 +77,4 @@
 
 ---
 
-⭐️ From [Suresh Konapuram](https://github.com/YOUR_USERNAME)
+⭐️ From [Suresh Konapuram](https://github.com/konapuramsureshbabu/)

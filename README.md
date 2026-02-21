@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suresh Konapuram</h1>
 <h3 align="center">Full Stack Developer | React | Next.js | Vue.js | Python | FastAPI</h3>
+<p align="center">
+  <img src="./profile.jpg" width="180" style="border-radius:50%;" />
+</p>
 
 ---
 
